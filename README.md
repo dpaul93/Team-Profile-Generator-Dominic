@@ -64,8 +64,8 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 ## Contact
 
-Github: https://github.com/dpaul93/Team-Profile-Generator-Dominic
-LinkedIn: https://www.linkedin.com/in/dominic-paul-b1a806109/
-Email: dominicepaul@gmail.com
+* Github: https://github.com/dpaul93/Team-Profile-Generator-Dominic
+* LinkedIn: https://www.linkedin.com/in/dominic-paul-b1a806109/
+* Email: dominicepaul@gmail.com
 ---
 
